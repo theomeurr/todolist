@@ -20,7 +20,7 @@ jobs:
       - name: Installation de Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: "22" # Remplacez par la version Node.js utilisée par votre projet
+          node-version: "22" # Nous somes en version 22
           cache: "npm"
 
       - name: Installation des dépendances
