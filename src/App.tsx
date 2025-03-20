@@ -9,4 +9,6 @@ function App() {
   );
 }
 
+// Test de la protection
+
 export default App;
